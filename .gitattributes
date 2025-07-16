@@ -1,0 +1,6 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+small.txt filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.zip filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 0be6887 (Test LFS with small file)
